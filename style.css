@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header  */
+.header-page{
+    background-color: #264653;;
+}
+.header-div1{
+    padding-top: 215px;
+}
+.header-para,.header-para1{
+    font-weight: 300;
+    font-size: 15px;
+}
+.header-title{
+    font-weight: 600px;
+    font-size: 48px;
+}
+.header-div2{
+    padding-top: 155px;
+    padding-bottom: 96px;
+}
+.purchase{
+    padding: 10px 40px 10px 40px;
+}
+/* featured bike  */
+.fetured-bike{
+    margin-top:60px ;
+}
+.featured-header{
+    font-weight: 600;
+    font-size: 48px
+}
+.featured-para{
+    font-weight: 600;
+    font-size: 14px;
+    color: #E76F51;
+}
+/* 3 bikes */
+.fe-bikes img{
+    width: 288px;
+    height: 243px;
+    margin-top: 120px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+/* Happy Clients says */
+.happyclients{
+    margin-top: 160px;
+    font-weight: 600;
+    font-size: 48px;
+}
+/* users  */
+.user{
+    margin-top: 52px;
+}
+.bikeuser img{
+    width: 149px;
+    height: 159px;
+    margin-bottom: 30px;
+}
+.user-1,.user-2,.user-3{
+    width: 323px;
+    height: 478.01px;
+}
+.user{
+    padding-top: 40px;
+}
+.user h5,h6{
+    margin-top: 15px;
+}
+.user h5{
+    font-weight: 600;
+font-size: 14px;
+}
+/* Frequently Asked Questions  */
+.frequentlyasked{
+    font-weight: 600;
+    font-size: 48px;
+    margin-top: 158px;
+    margin-bottom: 112px;
+}
+.last-img{
+    width: 431.2px;
+    height: 423.5px;
+}
+.askquestion{
+    margin-left: 157px;
+    margin-right: 157px;
+    gap: 142px;
+}
